@@ -1,0 +1,57 @@
+.kowaad{
+    background-color: black;
+    width: 100%;
+    height: 25%;
+}
+
+.labaad{
+    background-color: aqua;
+    width: 100%;
+    height: 60%;
+    display: flex;
+}
+.sadexaad{
+    background-color:green;
+    width: 100%;
+    height: 25%;
+}
+.p1{
+    background-color:blueviolet;
+    width: 20%;
+    height: 100%;
+}
+.p2{
+    background-color:blue;
+    width: 80%;
+    height: 100%;
+}
+.p3{
+    background-color:brown;
+    width: 30%;
+    height: 100%;
+}
+
+.p4{
+    background-color:lightcoral;
+    width: 30%;
+    height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
